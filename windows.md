@@ -15,4 +15,5 @@ This tutotial show how to config docker on windows AND run Docker(Windows) integ
 - [Docker Desktop for Windows 10/11 Setup and Tips](https://www.youtube.com/watch?v=rATNU0Fr8zs)
 
 This VSCode extensions allow to edit code inside the WSL container.
+- [VSCode Marketplace - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 - [VSCode - Remote development in WSL](https://code.visualstudio.com/docs/remote/wsl-tutorial)
